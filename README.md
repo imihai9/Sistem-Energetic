@@ -73,7 +73,3 @@ de alegere a producatorilor
 - **Observer**
     - Producers = Observables, Distributors = Observers; cand are loc o modificare de putere generata per distribuitor
 in cadrul unui producator, toti distribuitorii aferenti acestuia sunt notificati.
-
-
-### Feedback:
-Un proiect util. Etapa a doua a avut enuntul mult mai bine explicat decat prima.
