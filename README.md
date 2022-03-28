@@ -6,6 +6,7 @@ Proiectare Orientata pe Obiecte, Seriile CA, CD
 2020-2021
 
 <https://ocw.cs.pub.ro/courses/poo-ca-cd/arhiva/teme/2020/proiect/etapa1>
+
 <https://ocw.cs.pub.ro/courses/poo-ca-cd/arhiva/teme/2020/proiect/etapa2>
 
 Student: Ionescu Mihai, 325CD
